@@ -19,3 +19,5 @@ Youtube：波仔分享
 curl -O https://raw.githubusercontent.com/V2RaySSR/Trojan/master/Trojan.sh && chmod  x trojan.sh && ./trojan.sh
 
 wget --no-check-certificate https://raw.githubusercontent.com/V2RaySSR/Trojan/master/Trojan.sh && chmod +x Trojan.sh && ./Trojan.sh
+
+**如果意料之外的状况发生，那么直接使用我自己fork的脚本：https://github.com/yetongss/Trojan-1/raw/master/Trojan.sh**
